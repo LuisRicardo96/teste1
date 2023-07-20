@@ -11,7 +11,7 @@ alem de quais tabelas estão cada informação.
 
 ## Localizador de informações:
 
-- Informações sobre endereços, como ruas, avenidas, bairros, cidades, países, etc., esses dados se encontram na tabela ✅Address✅.
+- Informações sobre endereços, como ruas, avenidas, bairros, cidades, países, etc., esses dados se encontram na tabela ✅Address🔓.
 - Dados bancários, como códigos e nomes de bancos, podem ser encontrados na tabela ✅Bank✅.
 - Detalhes sobre contas bancárias, como status, números de contas, titulares e informações dos documentos, estão na tabela ✅BankAccount✅.
 - Endereços de e-mails presentes na lista negra podem ser encontrados na tabela ✅BlackList✅.
